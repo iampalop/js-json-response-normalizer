@@ -56,4 +56,4 @@ node main.js
 }
 ```
 
-Project page url: https://roadmap.sh/projects/js-json-response-normalizerN
+Project page url: https://roadmap.sh/projects/js-json-response-normalizer
